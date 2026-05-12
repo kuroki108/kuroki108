@@ -28,3 +28,6 @@ I prefer learning by **doing and building projects**, not just watching tutorial
 
 ## ⚡ Mindset  
 > *"Learn by building — not by just consuming."*
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuroki108)](https://github.com/kuroki108/github-readme-stats)
