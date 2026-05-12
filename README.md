@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Finn  
 
-<!--
-**kuroki108/kuroki108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **18 y/o Tech Enthusiast**  
+💻 Passionate about **Python & Linux**  
+🔐 On the path to **Cybersecurity**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+I’m currently focused on building real skills in tech — especially in Python, Linux systems, and security.  
+I prefer learning by **doing and building projects**, not just watching tutorials.  
+
+---
+
+## 🛠️ What I'm Working On  
+- Improving my Python skills through practical projects  
+- Exploring Linux systems and customization  
+- Getting started in cybersecurity fundamentals  
+
+---
+
+## 📚 Goals  
+- Build a strong foundation in cybersecurity  
+- Create projects that actually solve problems  
+- Keep learning consistently and leveling up  
+
+---
+
+## ⚡ Mindset  
+> *"Learn by building — not by just consuming."*
